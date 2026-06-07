@@ -1,7 +1,9 @@
 ---
-title: Welcome to my blog!
+title: Welcome!
 ---
 
 # LOL
+
 *click below*
-(https://youtu.be/dQw4w9WgXcQ?si=_ZPa15gf1192Imv2)
+
+[YouTube](https://youtu.be/dQw4w9WgXcQ?si=_ZPa15gf1192Imv2)
